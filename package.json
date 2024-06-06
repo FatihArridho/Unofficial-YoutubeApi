@@ -1,0 +1,39 @@
+{
+  "name": "Unofficial-YoutubeApi",
+  "version": "0.1.0",
+  "description": "Unofficial Simple Youtube Api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fatih arridho",
+    "scraper youtube",
+    "youtube",
+    "YoutubeApi",
+    "youtube-api",
+    "unofficialyoutubeapi",
+    "unofficial-youtube-api",
+    "youtube unofficial api",
+    "unofficial youtube api"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FatihArridho/Unofficial-YoutubeApi"
+  },
+  "bugs": {
+    "url": "https://github.com/FatihArridho/Unofficial-YoutubeApi/issues"
+  },
+  "homepage": "https://github.com/FatihArridho/Unofficial-YoutubeApi",
+  "author": {
+    "name": "Fatih Arridho",
+    "email": "m.fatiharridho@gmail.com",
+    "url": "https://github.com/FatihArridho"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.2"
+  }
+}
