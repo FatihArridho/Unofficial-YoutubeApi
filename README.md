@@ -27,6 +27,9 @@ EN: So what will be read first is the channel route. Likewise with the others.
 3. `youtube/search?playlist=playlist+lagu+anime`
 4. `youtube/search?all=fatih+arridho`
 
+## Want To Contribute?
+Pull Request! :)
+
 ## Donate
 - <a href="https://saweria.co/FatihArridho" target="_blank">Saweria<a/>
 - <a href="https://trakteer.id/FatihArridho/tip" target="_blank">Trakteer<a/>
